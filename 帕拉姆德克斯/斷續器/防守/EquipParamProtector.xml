@@ -516,28 +516,28 @@
       <Enum>EQUIP_BOOL</Enum>
       <Description>頭装備か.</Description>
       <Maximum>1</Maximum>
-      <SortID>500</SortID>
+      <SortID>630000</SortID>
     </Field>
     <Field Def="u8 bodyEquip:1">
       <DisplayName>胴装備</DisplayName>
       <Enum>EQUIP_BOOL</Enum>
       <Description>胴装備か.</Description>
       <Maximum>1</Maximum>
-      <SortID>600</SortID>
+      <SortID>630100</SortID>
     </Field>
     <Field Def="u8 armEquip:1">
       <DisplayName>腕装備</DisplayName>
       <Enum>EQUIP_BOOL</Enum>
       <Description>腕装備か.</Description>
       <Maximum>1</Maximum>
-      <SortID>700</SortID>
+      <SortID>630200</SortID>
     </Field>
     <Field Def="u8 legEquip:1">
       <DisplayName>脚装備</DisplayName>
       <Enum>EQUIP_BOOL</Enum>
       <Description>脚装備か.</Description>
       <Maximum>1</Maximum>
-      <SortID>800</SortID>
+      <SortID>630300</SortID>
     </Field>
     <Field Def="u8 useFaceScale:1">
       <DisplayName>顔スケールを使用するか</DisplayName>

@@ -286,11 +286,11 @@
 620300,Prophet Trousers,13923,13923
 621100,Prophet Robe (Altered),13931,13931
 622100,Prophet Robe,13941,13941
-630000,Astrologer Hood,13950,13950
-630100,Astrologer Robe,13951,13951
-630200,Astrologer Gloves,13952,13952
-630300,Astrologer Trousers,13953,13953
-631100,Astrologer Robe (Altered),13961,13961
+630000,Astrologer Hood,invisibleFlag_SexVer04 13950,13950
+630100,Astrologer Robe,invisibleFlag_SexVer03 13951,13951
+630200,Astrologer Gloves,invisibleFlag_SexVer01 13952,13952
+630300,Astrologer Trousers,invisibleFlag_SexVer02 13953,13953
+631100,Astrologer Robe (Altered),invisibleFlag_SexVer00 13961,13961
 640000,Lionel's Helm,13970,13970
 640100,Lionel's Armor,13971,13971
 640200,Lionel's Gauntlets,13972,13972
